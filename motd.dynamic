@@ -1,0 +1,18 @@
+Welcome to Ubuntu 23.10 (GNU/Linux 6.5.0-9-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Fri Apr 12 02:33:27 UTC 2024
+
+  System load:  0.0               Processes:             93
+  Usage of /:   19.0% of 8.65GB   Users logged in:       0
+  Memory usage: 70%               IPv4 address for eth0: 206.81.4.85
+  Swap usage:   0%                IPv4 address for eth0: 10.10.0.6
+
+111 updates can be applied immediately.
+68 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+
